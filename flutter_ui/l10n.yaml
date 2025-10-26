@@ -1,0 +1,7 @@
+arb-dir: lib/src/assets/translations
+
+output-dir: lib/src/assets/generated
+
+template-arb-file: zh_CN.arb
+
+output-localization-file: vfsimp-ui-l10n.dart

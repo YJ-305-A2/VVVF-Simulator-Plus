@@ -1,0 +1,12 @@
+# 根目录 .gitignore
+/.idea/
+/app/.idea/
+/native/rust/.idea/
+/native/embedded/.idea/
+
+# 添加通用忽略项
+/build/
+/target/
+*.iml
+.dart_tool/
+/.zig-cache/
